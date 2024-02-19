@@ -28,7 +28,7 @@ Once the project is running, it will start an Express server listening on the sp
 
 /api/quotes: POST endpoint to fetch quotes from an external API, filter them based on user details, cache the filtered quotes, and save them to the PostgreSQL database. <br>
 /api/quotes/best-three: GET endpoint to fetch the best three quotes from the database. <br>
-To use the API endpoints, send requests to http://localhost:<port>/api/quotes and http://localhost:<port>/api/quotes/best-three. <br>
+To use the API endpoints, send requests to http://localhost:8004/api/quotes and http://localhost:8004/api/quotes/best-three. <br>
 Json-server runs on port 3001 <br>
 <br>
 Test on postman
