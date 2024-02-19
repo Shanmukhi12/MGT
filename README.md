@@ -3,7 +3,10 @@ This is a Node.js project written in TypeScript, using PostgreSQL as the databas
 
 ## Clone the repo
 Download or clone this repository to your local machine.<br>
-git link
+https://github.com/Shanmukhi12/mgt.git
+
+## Install dependencies
+Run 'npm install'
 
 ## Set up the database
 Go to src/index.ts <br>
