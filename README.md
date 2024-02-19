@@ -22,3 +22,11 @@ once you set up the database update the following according to your database con
 ## Run the project
 Go to directory using cd mgt<br>
 Run the command 'npm start'
+
+## Usage
+Once the project is running, it will start an Express server listening on the specified port (default is 8004). The project exposes two API endpoints: <br>
+
+/api/quotes: POST endpoint to fetch quotes from an external API, filter them based on user details, cache the filtered quotes, and save them to the PostgreSQL database. <br>
+/api/quotes/best-three: GET endpoint to fetch the best three quotes from the database. <br>
+To use the API endpoints, send requests to http://localhost:<port>/api/quotes and http://localhost:<port>/api/quotes/best-three. <br>
+Json-server runs on port 3001
