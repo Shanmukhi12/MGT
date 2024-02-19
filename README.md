@@ -20,7 +20,7 @@ once you set up the database update the following according to your database con
 6. database
 
 ## Run the project
-Go to project directory 
+Go to project directory <br>
 Run the command 'npm start'
 
 ## Usage
