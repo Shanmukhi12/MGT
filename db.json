@@ -1,0 +1,53 @@
+{
+  "quotes": [
+    {
+      "name": "Mary",
+      "age": 25,
+      "carModel": "MiniCooper",
+      "drivingExperience": 4,
+      "price": 500
+    },
+    {
+      "name": "Helen",
+      "age": 35,
+      "carModel": "Tesla",
+      "drivingExperience": 10,
+      "price": 1500
+    },
+    {
+      "name": "Cary",
+      "age": 23,
+      "carModel": "BMV",
+      "drivingExperience": 2,
+      "price": 2000
+    },
+    {
+      "name": "Henry",
+      "age": 53,
+      "carModel": "Audi",
+      "drivingExperience": 25,
+      "price": 3000
+    },
+    {
+      "name": "Pooh",
+      "age": 65,
+      "carModel": "Benz",
+      "drivingExperience": 30,
+      "price": 100
+    },
+    {
+      "name": "Cacy",
+      "age": 22,
+      "carModel": "BMW",
+      "drivingExperience": 2,
+      "price": 400
+    },
+    {
+      "name": "vinni",
+      "age": 62,
+      "carModel": "GM",
+      "drivingExperience": 40,
+      "price": 50
+    }
+  ]
+}
